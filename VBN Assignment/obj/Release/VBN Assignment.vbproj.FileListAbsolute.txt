@@ -1,0 +1,36 @@
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\bin\Release\StaffLogin.accdb
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\bin\Release\VBN Assignment.exe.config
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\bin\Release\VBN Assignment.exe
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\bin\Release\VBN Assignment.pdb
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\bin\Release\VBN Assignment.xml
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Release\VBN Assignment.vbprojAssemblyReference.cache
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Release\VBN_Assignment.Home.resources
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Release\VBN_Assignment.Order.resources
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Release\VBN_Assignment.MainMenu.resources
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Release\VBN_Assignment.Resources.resources
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Release\VBN_Assignment.Payment.resources
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Release\VBN_Assignment.Registry.resources
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Release\VBN_Assignment.UpdateInfo.resources
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Release\VBN Assignment.vbproj.GenerateResource.cache
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Release\VBN Assignment.vbproj.CoreCompileInputs.cache
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Release\VBN Assignment.exe
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Release\VBN Assignment.xml
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Release\VBN Assignment.pdb
+C:\Users\Despiration\Desktop\VBN Assignment\VBN Assignment\bin\Release\StaffLogin.accdb
+C:\Users\Despiration\Desktop\VBN Assignment\VBN Assignment\bin\Release\VBN Assignment.exe.config
+C:\Users\Despiration\Desktop\VBN Assignment\VBN Assignment\bin\Release\VBN Assignment.exe
+C:\Users\Despiration\Desktop\VBN Assignment\VBN Assignment\bin\Release\VBN Assignment.pdb
+C:\Users\Despiration\Desktop\VBN Assignment\VBN Assignment\bin\Release\VBN Assignment.xml
+C:\Users\Despiration\Desktop\VBN Assignment\VBN Assignment\obj\Release\VBN Assignment.vbprojAssemblyReference.cache
+C:\Users\Despiration\Desktop\VBN Assignment\VBN Assignment\obj\Release\VBN_Assignment.Home.resources
+C:\Users\Despiration\Desktop\VBN Assignment\VBN Assignment\obj\Release\VBN_Assignment.Order.resources
+C:\Users\Despiration\Desktop\VBN Assignment\VBN Assignment\obj\Release\VBN_Assignment.MainMenu.resources
+C:\Users\Despiration\Desktop\VBN Assignment\VBN Assignment\obj\Release\VBN_Assignment.Resources.resources
+C:\Users\Despiration\Desktop\VBN Assignment\VBN Assignment\obj\Release\VBN_Assignment.Payment.resources
+C:\Users\Despiration\Desktop\VBN Assignment\VBN Assignment\obj\Release\VBN_Assignment.Registry.resources
+C:\Users\Despiration\Desktop\VBN Assignment\VBN Assignment\obj\Release\VBN_Assignment.UpdateInfo.resources
+C:\Users\Despiration\Desktop\VBN Assignment\VBN Assignment\obj\Release\VBN Assignment.vbproj.GenerateResource.cache
+C:\Users\Despiration\Desktop\VBN Assignment\VBN Assignment\obj\Release\VBN Assignment.vbproj.CoreCompileInputs.cache
+C:\Users\Despiration\Desktop\VBN Assignment\VBN Assignment\obj\Release\VBN Assignment.exe
+C:\Users\Despiration\Desktop\VBN Assignment\VBN Assignment\obj\Release\VBN Assignment.xml
+C:\Users\Despiration\Desktop\VBN Assignment\VBN Assignment\obj\Release\VBN Assignment.pdb

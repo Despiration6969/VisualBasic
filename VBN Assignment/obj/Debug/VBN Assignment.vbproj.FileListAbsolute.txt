@@ -1,0 +1,36 @@
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\bin\Debug\StaffLogin.accdb
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\bin\Debug\VBN Assignment.exe.config
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\bin\Debug\VBN Assignment.exe
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\bin\Debug\VBN Assignment.pdb
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\bin\Debug\VBN Assignment.xml
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN Assignment.vbprojAssemblyReference.cache
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN_Assignment.Home.resources
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN_Assignment.Resources.resources
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN Assignment.vbproj.GenerateResource.cache
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN Assignment.vbproj.CoreCompileInputs.cache
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN Assignment.exe
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN Assignment.xml
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN Assignment.pdb
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN_Assignment.Registry.resources
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN_Assignment.Order.resources
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN_Assignment.Payment.resources
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN_Assignment.MainMenu.resources
+C:\Users\Despiration\Desktop\APU\This Sem\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN_Assignment.UpdateInfo.resources
+C:\Users\Despiration\Desktop\APU\3rd SEM\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\bin\Debug\StaffLogin.accdb
+C:\Users\Despiration\Desktop\APU\3rd SEM\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\bin\Debug\VBN Assignment.exe.config
+C:\Users\Despiration\Desktop\APU\3rd SEM\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\bin\Debug\VBN Assignment.exe
+C:\Users\Despiration\Desktop\APU\3rd SEM\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\bin\Debug\VBN Assignment.pdb
+C:\Users\Despiration\Desktop\APU\3rd SEM\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\bin\Debug\VBN Assignment.xml
+C:\Users\Despiration\Desktop\APU\3rd SEM\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN Assignment.vbprojAssemblyReference.cache
+C:\Users\Despiration\Desktop\APU\3rd SEM\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN_Assignment.Home.resources
+C:\Users\Despiration\Desktop\APU\3rd SEM\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN_Assignment.Order.resources
+C:\Users\Despiration\Desktop\APU\3rd SEM\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN_Assignment.MainMenu.resources
+C:\Users\Despiration\Desktop\APU\3rd SEM\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN_Assignment.Resources.resources
+C:\Users\Despiration\Desktop\APU\3rd SEM\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN_Assignment.Payment.resources
+C:\Users\Despiration\Desktop\APU\3rd SEM\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN_Assignment.Registry.resources
+C:\Users\Despiration\Desktop\APU\3rd SEM\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN_Assignment.UpdateInfo.resources
+C:\Users\Despiration\Desktop\APU\3rd SEM\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN Assignment.vbproj.GenerateResource.cache
+C:\Users\Despiration\Desktop\APU\3rd SEM\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN Assignment.vbproj.CoreCompileInputs.cache
+C:\Users\Despiration\Desktop\APU\3rd SEM\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN Assignment.exe
+C:\Users\Despiration\Desktop\APU\3rd SEM\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN Assignment.xml
+C:\Users\Despiration\Desktop\APU\3rd SEM\VBN\VBN ASSIGNMENT\VBN Assignment\VBN Assignment\obj\Debug\VBN Assignment.pdb
